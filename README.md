@@ -34,7 +34,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Acknowledgments
 
 - Inspired by web dev course by Angela in UDEMY
-
+**<p align='center'>You can find the website live <a href="https://burlaabhiraj.github.io/Drum-Kit/">here</a></p>**
 ---
 
 Enjoy playing the Drum-Kit! Experiment with different sounds and rhythms to create your beats.
